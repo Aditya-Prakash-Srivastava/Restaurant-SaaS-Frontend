@@ -9,3 +9,4 @@ export const APP_ROUTES = Object.freeze({
   DASHBOARD: '/dashboard',
   NOT_FOUND: '*',
 });
+

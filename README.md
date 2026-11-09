@@ -85,3 +85,4 @@ Ensure `VITE_API_BASE_URL` matches your backend address (default: `http://localh
 npm run dev
 ```
 The application will launch at `http://localhost:5173`.
+

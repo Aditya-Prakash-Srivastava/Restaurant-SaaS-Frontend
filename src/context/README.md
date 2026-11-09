@@ -8,3 +8,4 @@ This directory is reserved for global React Context providers.
 
 ### Architectural Best Practice:
 Always export a custom hook corresponding to each context (e.g., `useAuth()`, `useTenant()`) so components never have to call `useContext(AuthContext)` directly.
+

@@ -13,3 +13,4 @@ export const API_ENDPOINTS = Object.freeze({
   },
   USERS: '/users',
 });
+

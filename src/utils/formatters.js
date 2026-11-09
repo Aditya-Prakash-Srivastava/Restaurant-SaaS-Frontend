@@ -15,3 +15,4 @@ export const formatDate = (dateString) => {
     timeStyle: 'short',
   }).format(new Date(dateString));
 };
+

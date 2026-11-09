@@ -14,3 +14,4 @@ export const healthService = {
     return await apiClient.get(API_ENDPOINTS.HEALTH);
   },
 };
+

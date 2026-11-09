@@ -13,3 +13,4 @@ export const APP_CONSTANTS = Object.freeze({
   },
   TOAST_DURATION_MS: 4000,
 });
+
